@@ -4,7 +4,8 @@
 This distributed cloud application is a Java-based web application developed to manage seat reservations for trains operated by various train companies. The application leverages cloud computing for resource outsourcing and utilizes the Spring Boot framework for streamlined development.
 
 ## Using the application
-The application is deployed at the following link: https://fos-jm-cloud-app.ew.r.appspot.com. You can sign in with any email password combination, once the email is of valid email format. 
+Previously, the application was deployed at the following link: https://fos-jm-cloud-app.ew.r.appspot.com. It is no longer actively maintained or deployed since the completion of the college course.
+While the application is no longer accessible, the code remains available for reference. API keys have been hidden. 
 
 
 ## Key Features
